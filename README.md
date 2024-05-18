@@ -39,6 +39,7 @@ sox --info new.wav
 
 ## Sources
 
+* [ocenaudio is a cross-platform, easy to use, fast and functional audio editor](https://www.ocenaudio.com/download)
 * [SoX - Sound eXchange](https://h3manth.com/2009/01/08/sox-sound-exchange-2)
 * [Audio resample 8K to 16K, convert mp3 to wav format](https://programmersought.com/article/31006998533/)
 * [LEVERAGING THE AUDIO SIGNAL PROCESSING POWER OF SOX IN PYTHON](https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/08/bittner-pysox.pdf)
