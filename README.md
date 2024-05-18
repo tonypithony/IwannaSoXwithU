@@ -1,5 +1,7 @@
 > The swiss army knife os sound processing
 
+![](https://raw.githubusercontent.com/tonypithony/IwannaSoXwithU/main/14977441176823_1920x1200.jpg)
+
 
 ```bash
 ffmpeg -i old.wav -ac 1 -ar 16000 new.wav
@@ -31,6 +33,9 @@ sox old.mp3 -r 16k newRightchannel.wav remix 2
 sox --i new.wav  
 sox --info new.wav
 ```
+
+![](https://raw.githubusercontent.com/tonypithony/IwannaSoXwithU/main/1682a72s-960.jpg)
+
 
 ## Sources
 
